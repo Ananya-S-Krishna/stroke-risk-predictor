@@ -83,16 +83,6 @@ A Python function `predict_stroke_risk()` can be used to predict stroke risk on 
 
 ---
 
-## Project Structure
-
-```
-├── stroke_prediction.ipynb         # Main Colab notebook with all steps
-├── random_forest_stroke_model.pkl  # Trained Random Forest model
-├── xgboost_stroke_model.pkl        # Trained XGBoost model
-├── model_features.pkl              # List of features expected by the model
-└── README.md                       # Project documentation
-```
-
 ## Disclaimer
 
 This project is for **educational purposes only**. The dataset is synthetic and should not be used in real medical diagnosis or treatment planning.
